@@ -17,6 +17,8 @@
     
 - [[Chapter 5 — Strain, Trauma & Special Actions\|Chapter 5 — Strain, Trauma & Special Actions]]
     
-- [[Chapter 6 — The Clan & Factions\|Chapter 6 — The Clan & Factions]]
+- [[Chapter 6 — The Clan\|Chapter 6 — The Clan]]
+     
+- [[Chapter 7 — Faction Mechanics\|Chapter 7 — Faction Mechanics]]
     
-- [[Chapter 7 — Examples & Glossary\|Chapter 7 — Examples & Glossary]]
+- [[Chapter 8 — Examples & Glossary\|Chapter 8 — Examples & Glossary]]
