@@ -181,12 +181,12 @@ The Recovery track has four tick boxes arranged in a square.
 ![Pasted image 20261108110539.png\|279](/img/user/Z_Assets/Pasted%20image%2020261108110539.png)
 Fill the boxes according to the highest result rolled:
 
-| **Roll result** | **Recovery progress** |
-| --------------- | --------------------- |
-| 1–3             | 1 tick                |
-| 4–5             | 2 ticks               |
-| One 6           | 3 ticks               |
-| Two or more 6s  | 5 ticks               |
+| *Roll result*  | *Recovery progress* |
+| -------------- | ------------------- |
+| 1–3            | 1 tick              |
+| 4–5            | 2 ticks             |
+| One 6          | 3 ticks             |
+| Two or more 6s | 5 ticks             |
 When all four ticks are checked, **each of your Injuries decreases by one severity level**. For example, a Level 3 Injury becomes Level 2, a Level 2 Injury becomes Level 1 and so on. Once healing takes effect, clear the Recovery track so it can be filled again through future recovery attempts.
 
 ---
