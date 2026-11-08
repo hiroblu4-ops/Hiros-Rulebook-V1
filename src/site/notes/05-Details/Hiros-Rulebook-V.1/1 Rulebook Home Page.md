@@ -3,8 +3,9 @@
 ---
 
 # Rulebook Home
-> Welcome to me rulebook. This is your guide to the rules, characters, and mechanics. Jump to any chapter when you need to look something up or learn something about how this all works
+> Welcome to me rulebook, my precious parasites. This is your guide to the rules, characters, and mechanics. Jump to any chapter when you need to look something up or learn something about how this all works
 
+![Pasted image 20261108164855.png\|454](/img/user/Z_Assets/Pasted%20image%2020261108164855.png)
 ## Available Notes
 - [[05-Details/Hiros-Rulebook-V.1/Chapter 1 — Playing the Game\|Chapter 1 — Playing the Game]]
     
