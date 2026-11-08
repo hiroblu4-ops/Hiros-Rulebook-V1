@@ -41,7 +41,8 @@ Attributes and Actions serve different purposes:
 - *Attribute XP tracks* record progress toward improving an Attribute and its associated Actions.
     
  Each Action has its own *Rating*, represented by the marked boxes in its row on your character sheet. while both Attribute's rating is represented by the first column of all actions, while the six boxes placed on the right beside the Attribute's name represent that Attribute's XP track.
-
+ 
+![Pasted image 20261108170725.png\|323](/img/user/Z_Assets/Pasted%20image%2020261108170725.png)
 ### Physical
 The **Physical Attribute** represents your character's ability to handle physical acts and resist physical danger, exertion, and bodily harm. It is associated with three Actions: *Force*, *Maneuver*, and *Finesse*.
 #### Force
