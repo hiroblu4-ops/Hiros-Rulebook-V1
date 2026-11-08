@@ -18,6 +18,7 @@ During Freeplay, the Clan can choose to *gather information* if they wish to dis
 
 Freeplay continues until the Clan is ready to begin an Operation. The Clan can return to Freeplay after *Downtime*, which is Freeplay but for the aftermath of an Operation.
 
+---
 ## 1.2 Preparing an Operation
 *Before* an Operation begins, the players use the information they have gathered from Freeplay to decide what they want to accomplish and how they intend to do it. 
 
@@ -43,6 +44,7 @@ Once the plan is established, the one who takes initiative (usually the leader o
 | 6        | **Good Position:** The Clan begins favorably, with an advantage in its circumstances.                       |
 The Host uses the result to establish the opening situation and describe what the Clan encounters first and foremost.
 
+---
 ## 1.3 During an Operation
 ![Pasted image 20261108164458.png\|268](/img/user/Z_Assets/Pasted%20image%2020261108164458.png)
 
@@ -68,6 +70,7 @@ An Operation can end when the Clan accomplishes its objective, when the situatio
 
 Abandoning an Operation does not erase its consequences. Based on how the Operation unfolded, the Host may introduce further consequences or award appropriate rewards before the group proceeds to Downtime.
 
+---
 ## 1.4 Downtime
 ![Pasted image 20261108164629.png\|272](/img/user/Z_Assets/Pasted%20image%2020261108164629.png)
 
@@ -96,7 +99,10 @@ Each additional activity costs 1 Credit, regardless of whether it benefits the c
 
 After all activities have been resolved *with or without fully roleplaying it*, the group can return to Freeplay and begin working toward its next Operation.
 
+---
 ## 1.5 The Cycle Continues
 The cycle continues as long as the Clan has ambitions to pursue and challenges to face.
 
 Remember that play does not have to stop at the end of a phase. You can divide an Operation or other scene into smaller segments, resolve part of it, and continue later. For asynchronous play, a cliffhanger can provide a natural point to pause while leaving the group with something to look forward to.
+
+---
