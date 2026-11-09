@@ -164,7 +164,7 @@ Your character can sustain up to five Injuries at a time: (Kinda graphic, read a
 | Level 2       | Deep slash to the arm, Concussion, Stab wound to the thigh, Broken nose. | Any Action Roll you make is reduced by one die.                                                                                      |
 | Level 3       | Severed tendon, Shattered kneecap, Third-degree burns, Broken Femur.     | Your character cannot perform any standard action rolls on their own unless they *Exert* themselves or are helped by another Player. |
 ### Suffering an Injury
-Suffering an injury occurs when you face a consequence from a failed or risky roll, or an enemy attack. When your character suffers an Injury, record it at the appropriate severity level that the Host provides.
+Suffering an injury occurs when you face a consequence from a failed or risky roll, or an enemy attack. When your character suffers an Injury, record it at the appropriate severity level that the Host provides. Your character may also gain an Injury after losing a certain amount of hearts: -5 hearts is equal to getting a severity level 1 Injury, -8 hearts makes your character suffer a level 2 Injury, and for them to lose 10 hearts and get knocked out, they gain a Level 3 Injury.
 
 ![Pasted image 20261108113058.png\|257](/img/user/Z_Assets/Pasted%20image%2020261108113058.png)
 
