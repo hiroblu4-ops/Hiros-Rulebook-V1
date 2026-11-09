@@ -120,7 +120,7 @@ Your Physical and Mental ratings determine the dice you roll when resisting the 
   
 *NOTE: Dice pool is the amount of dice you have to roll to attempt something. Dice Pool = Rating*
 ### Attribute XP and Improvement
-![Pasted image 20261108110821.png\|304](/img/user/Z_Assets/Pasted%20image%2020261108110821.png)    ![Pasted image 20261108110830.png\|301](/img/user/Z_Assets/Pasted%20image%2020261108110830.png)
+![Pasted image 20261108110821.png\|304](/img/user/Z_Assets/Pasted%20image%2020261108110821.png)    ![Pasted image 20261108110830.png\|302](/img/user/Z_Assets/Pasted%20image%2020261108110830.png)
 
 Each Attribute has its own **XP track**, represented by the boxes beside its name on your character sheet. This track records your progress toward improving that Attribute. When the track is filled, the Attribute advances, allowing you to mark one additional tick in an Action associated with it.
 
