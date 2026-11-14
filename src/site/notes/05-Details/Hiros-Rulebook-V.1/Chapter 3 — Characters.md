@@ -258,7 +258,7 @@ Using your Gear remains fair as long as the total number of abstract items that 
     
 - **Credit and Stash:** Your character is limited to having no more than 2 Credits on-hand, and fewer than 10 Credits in their stash unless there is a good or considerable reason.
 ### The Rule for Unregistered Characters
-Players may participate in an event without a registered character sheet. Until their character is registered, **all their rolls use 1d6**, regardless of the Action or Attribute. Unregistered characters do not track Credit, Stash, Special Trait, XP, Strain, Trauma, or Recovery. Injuries and other consequences are handled or considered narratively by the Host along with the others, not recorded.
+Players may participate in an event without a registered character sheet. Until their character is registered, **all their rolls use 1d6**, regardless of the Action or Attribute. Unregistered characters do not have or track Credit, Stash, Special Trait, XP, Strain, Trauma, or Recovery. Injuries and other consequences are handled or considered narratively by the Host along with the others, not recorded.
 
 *NOTE: Any character used in an event without registration must be registered before or by the next event they participate in or else the rule will still be applicable.*
 
