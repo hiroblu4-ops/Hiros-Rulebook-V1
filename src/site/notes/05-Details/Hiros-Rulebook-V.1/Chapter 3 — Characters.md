@@ -250,13 +250,13 @@ Using your Gear remains fair as long as the total number of abstract items that 
     
 - **Attribute XP:** Both Attribute XP tracks begin empty.
     
-- **Special Trait:** You are optionally able to write your own Special Trait, provided that the Host approved of it. Its eight-box XP track begins empty, but the Level of your Special trait begins at 1.
+- **Special Trait:** You are optionally able to write your own Special Trait, provided that the Host approves of it. Its eight-box XP track begins empty, but the Level of your Special trait begins at 1.
     
 - **Strain & Trauma:** You begin with an empty Strain track and no Trauma unless you propose it.
     
 - **Injuries:** You have no Injuries and nothing to Recover.
     
-- **Credit and Stash:** Your character is limited to having no more than 2 Credits on-hand, and fewer than 10 Credits in their stash unless there is a good or considerable reason.
+- **Credit and Stash:** Your character is limited to having no more than 2 Credits on hand, and fewer than 10 Credits in their stash unless there is a good or considerable reason.
 ### The Rule for Unregistered Characters
 Players may participate in an event without a registered character sheet. Until their character is registered, **all their rolls use 1d6**, regardless of the Action or Attribute. Unregistered characters do not have or track Credit, Stash, Special Trait, XP, Strain, Trauma, or Recovery. Injuries and other consequences are handled or considered narratively by the Host along with the others, not recorded.
 
