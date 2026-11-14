@@ -3,7 +3,7 @@
 ---
 
 *NOTE: Every detail is subject to change for improvement. Especially the Character Sheet.*
-![Screenshot 2026-11-07 113226 1.png](/img/user/Z_Assets/Screenshot%202026-11-07%20113226%201.png)
+![Pasted image 20261114085858.png](/img/user/Z_Assets/Pasted%20image%2020261114085858.png)
 ## 3.1 Character Basics
 Characters are the people you play. Each has their own abilities, resources, and limits. These determine what they can accomplish, how they handle danger, and how they could develop over time.
 
@@ -68,7 +68,7 @@ The **Physical Attribute** represents your character's ability to handle physica
 - Creating a tool.
   
 ### Mental
-The **Mental Attribute** represents your character's ability to act on and resist psychological, social, and other mental elements. Mental is associated with three Actions: *Perceive*, *Influence*, and *Deceive*.
+The **Mental Attribute** represents your character's ability to act on and resist psychological, social, and other mental elements. Mental is associated with three Actions: *Perceive*, *Wits*, and *Deceive*.
 #### Perceive
 **Perceive** is the ability to notice details, interpret your surroundings, and recognize things that others might overlook. Use Perceive when you need to observe, investigate, detect danger, or make sense of what is happening around you.
 
@@ -76,13 +76,14 @@ The **Mental Attribute** represents your character's ability to act on and resis
 - Spotting an ambush before it happens.
 - Noticing that a room has been searched.
 - Finding a clue to a mystery.
-#### Influence
-**Influence** is the ability to affect other people through your presence, words, authority, or emotional appeal. Use Influence when you need to persuade, command, reassure, negotiate with, or otherwise sway someone.
+#### Wits
+**Wits** is the ability to think critically, recognize patterns, and solve problems through logic and deduction. Use Wits when you need to figure out a puzzle, outsmart a challenge, or draw conclusions from available information.
 
-*Examples:*
-- Convincing a guard to let you pass.
-- Negotiating a deal with a rival.
-- Rallying frightened allies to keep fighting.
+_Examples:_
+- Solving a Rubik’s Cube or another puzzle.
+- Figuring out which cup hides a coin after they’ve been shuffled.
+- Finding the solution to a logic problem under pressure.
+*NOTE: Wits alone won't solve every puzzle. If a Host designed a puzzle to be manually analyzed and solved, using Wits may be useless or only provide a minor hint.*
 #### Deceive
 **Deceive** is the ability to mislead others and conceal the truth. Use Deceive when you need to lie convincingly, disguise your intentions, create a false impression, or manipulate what someone believes.
 
@@ -120,11 +121,11 @@ Your Physical and Mental ratings determine the dice you roll when resisting the 
   
 *NOTE: Dice pool is the amount of dice you have to roll to attempt something. Dice Pool = Rating*
 ### Attribute XP and Improvement
-![Pasted image 20261108110821.png\|304](/img/user/Z_Assets/Pasted%20image%2020261108110821.png)    ![Pasted image 20261108110830.png\|302](/img/user/Z_Assets/Pasted%20image%2020261108110830.png)
+![Pasted image 20261114091448.png\|271](/img/user/Z_Assets/Pasted%20image%2020261114091448.png)    ![Pasted image 20261114091501.png\|273](/img/user/Z_Assets/Pasted%20image%2020261114091501.png)
 
 Each Attribute has its own **XP track**, represented by the boxes beside its name on your character sheet. This track records your progress toward improving that Attribute. When the track is filled, the Attribute advances, allowing you to mark one additional tick in an Action associated with it.
 
-For example, advancing Physical allows you to add one tick to Force, Maneuver, or Finesse. Advancing Mental allows you to add one tick to Perceive, Influence, or Deceive.
+For example, advancing Physical allows you to add one tick to Force, Maneuver, or Finesse. Advancing Mental allows you to add one tick to Perceive, WIts, or Deceive.
 
 The XP track and the Action Ratings serve different purposes: the track measures progress toward advancement, while the Action ratings determine the dice you roll. Advancing an Attribute and gaining one additional tick means an improved *Rating*, an improved Rating means your *Dice Pool* for that advanced Action or Attribute gets one more dice at default.
 
@@ -178,7 +179,9 @@ You can also attempt recovery on your own. When no other opportunity is availabl
 To recover, make a Recovery Roll using the **Finesse Action** or **Special Trait** dice pool determined by the character providing the healing. If it's an NPC with Medical Experience healing your character, they have a standard of **2** in their Dice Pool. If you are treating yourself, use your own appropriate dice pool to make the roll. Trying to recover in a dangerous situation reduces the roll by one die.
 
 The Recovery track has four tick boxes arranged in a square. 
+
 ![Pasted image 20261108110539.png\|279](/img/user/Z_Assets/Pasted%20image%2020261108110539.png)
+
 Fill the boxes according to the highest result rolled:
 
 | *Roll result*  | *Recovery progress* |
@@ -194,7 +197,9 @@ When all four ticks are checked, **each of your Injuries decreases by one severi
 Every player can optionally define or provide a **Special Trait** for their character. A Special Trait is a defining ability or feature that makes them distinct. Special Traits may provide unique abilities or change how a character approaches particular situations. Their individual descriptions explain what they do.
 
 Each Special Trait has its own XP track, represented by the smaller eight boxes on the character sheet.
+
 ![Pasted image 20261108111000.png\|234](/img/user/Z_Assets/Pasted%20image%2020261108111000.png)
+
 This track records progress toward advancing the Trait. When all eight boxes are filled, you get to mark one more of the larger boxes next to it, letting the Special Trait level up. Increasing its Level improves and develops the Trait.
 
 The way a Trait is rolled for depends on what it does and how the player defined it. Action-based Traits use Action Rolls, and Attribute-based Traits use Resistance Rolls where the cost is Strain. The amount of Dice you need to roll for the usage of a Special Trait is determined by it's level, where level 1 = 1 Die, Level 2 = 2 Dice, and so on. However, you can only use your Special Trait once during an Operation.
@@ -228,6 +233,7 @@ Gear represents the equipment your character brings into an operation, it also d
 Abstract items are useful possessions that do not need to be recorded individually in your inventory with the inventory bot. They can be introduced later during the action when characters need them to help overcome an obstacle.
 
 Before an operation, characters must choose their appropriate gear:
+
 ![Pasted image 20261108112927.png\|266](/img/user/Z_Assets/Pasted%20image%2020261108112927.png)
 
 | *Gear Level* | *Gear Limit* |
@@ -239,7 +245,7 @@ Using your Gear remains fair as long as the total number of abstract items that 
 
 ---
 ## 3.8 Default Character Details
- A newly created character begins with the following technical details:
+ A newly created character begins with the following technical details that the player would add during registry:
 - **Action Ratings:** You have 4 ticks to distribute among your six Actions, with no more than 2 ticks in a single Action.
     
 - **Attribute XP:** Both Attribute XP tracks begin empty.
@@ -250,6 +256,10 @@ Using your Gear remains fair as long as the total number of abstract items that 
     
 - **Injuries:** You have no Injuries and nothing to Recover.
     
-- **Credit and Stash:** Your character is limited to have not more than 2 Credits on-hand and lesser than 10 Credits in their stash unless there is a considerable reason.
+- **Credit and Stash:** Your character is limited to having no more than 2 Credits on-hand, and fewer than 10 Credits in their stash unless there is a good or considerable reason.
+### The Rule for Unregistered Characters
+Players may participate in an event without a registered character sheet. Until their character is registered, **all their rolls use 1d6**, regardless of the Action or Attribute. Unregistered characters do not track Credit, Stash, Special Trait, XP, Strain, Trauma, or Recovery. Injuries and other consequences are handled or considered narratively by the Host along with the others, not recorded.
+
+*NOTE: Any character used in an event without registration must be registered before or by the next event they participate in or else the rule will still be applicable.*
 
 ---
