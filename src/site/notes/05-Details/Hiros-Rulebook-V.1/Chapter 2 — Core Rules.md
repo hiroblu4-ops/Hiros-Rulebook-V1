@@ -30,7 +30,7 @@ Add any applicable bonus dice to the pool you're using before rolling. Read only
 
 The game uses different roll procedures for different situations: **Action Rolls, Resistance Rolls, Fortune Rolls, Recovery Rolls, and Special Trait Rolls**. Each roll follows the aforementioned basic dice system.
 
-[[05-Details/Hiros-Rulebook-V.1/Chapter 3 — Characters\|Chapter 3 — Characters]] explains this further more while [[Chapter 4 — Advancement\|Chapter 4 — Advancement]] elaborates how XP could also improve your dice pool and rolls.
+[[05-Details/Hiros-Rulebook-V.1/Chapter 3 — Characters\|Chapter 3 — Characters]] explains this further more while [[05-Details/Hiros-Rulebook-V.1/Chapter 4 — Advancement\|Chapter 4 — Advancement]] elaborates how XP could also improve your dice pool and rolls.
 ### Action Rolls
 Make an **Action Roll** when your character attempts something dangerous, troublesome, or uncertain and the outcome needs to be determined.
 
@@ -122,7 +122,7 @@ Your Special Trait level determines the number of dice you roll when using it. R
 #### Special Trait Limit & Advancement
 You can use your Special Trait **only once during an Operation or any kind of event**. Each Special Trait has its own eight-box XP track. When all eight boxes are filled, you can mark one additional level tickbox to advance the trait. Increasing its level improves and develops the trait, adding one more dice to it's dice pool.
 
-For reference, check [[05-Details/Hiros-Rulebook-V.1/Chapter 3 — Characters\|Chapter 3 — Characters]] & [[Chapter 4 — Advancement\|Chapter 4 — Advancement]]
+For reference, check [[05-Details/Hiros-Rulebook-V.1/Chapter 3 — Characters\|Chapter 3 — Characters]] & [[05-Details/Hiros-Rulebook-V.1/Chapter 4 — Advancement\|Chapter 4 — Advancement]]
 
 ---
 ## 2.3 Consequences
@@ -211,7 +211,7 @@ The number of tick boxes indicates how much progress a goal requires. The follow
 | **6 ticks**     | A goal requiring several steps.        |
 | **8 ticks**     | A difficult or long-term goal.         |
 | **10–12 ticks** | A complex goal with several obstacles. |
-*NOTE: Tracks can be represented by emojis during an event. For example, 🟩🟩🟩🟥🟥🟥*
+*NOTE: Tracks can be represented by emojis during an event. For example, ☑️☑️☑️🔳🔳🔳*
 ### Creating a Progress Track
 Players or the Host can communicate together, initiate, and decide when a goal or situation needs a Progress Track. Create one when the objective cannot be resolved meaningfully with a single action and needs to develop over multiple actions or scenes.
 
