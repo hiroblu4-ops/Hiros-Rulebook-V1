@@ -40,7 +40,7 @@ Attributes and Actions serve different purposes:
 - *Actions* determine the dice rolled when attempting something.
 - *Attribute XP tracks* record progress toward improving an Attribute and its associated Actions.
     
- Each Action has its own *Rating*, represented by the marked boxes in its row on your character sheet. while both Attribute's rating is represented by the first column of all actions, while the six boxes placed on the right beside the Attribute's name represent that Attribute's XP track.
+ Each Action has its own *Rating*, represented by the marked boxes in its row on your character sheet. Both an attribute's rating is represented by the first column of all actions, while the six boxes placed on the right beside the Attribute's name represent that Attribute's XP track.
  
 ![Pasted image 20261108170725.png\|323](/img/user/Z_Assets/Pasted%20image%2020261108170725.png)
 ### Physical
@@ -129,7 +129,7 @@ For example, advancing Physical allows you to add one tick to Force, Maneuver, o
 
 The XP track and the Action Ratings serve different purposes: the track measures progress toward advancement, while the Action ratings determine the dice you roll. Advancing an Attribute and gaining one additional tick means an improved *Rating*, an improved Rating means your *Dice Pool* for that advanced Action or Attribute gets one more dice at default.
 
-[[Chapter 4 — Advancement\|Chapter 4 — Advancement]] explains how characters earn XP, fill these tracks, and improve their ratings.
+[[05-Details/Hiros-Rulebook-V.1/Chapter 4 — Advancement\|Chapter 4 — Advancement]] explains how characters earn XP, fill these tracks, and improve their ratings.
 
 ---
 ## 3.3 Strain and Trauma
@@ -206,7 +206,7 @@ The way a Trait is rolled for depends on what it does and how the player defined
 
 *NOTE: The Special Trait XP track is separate from the Attribute XP tracks. You have to spend XP separately. Filling an Attribute's track improves the rating of the Action or Attribute. On the other hand, filling a Special Trait's XP track improves the Level and Rating of the Special Trait. Complicated, innit?*
 
-[[Chapter 4 — Advancement\|Chapter 4 — Advancement]] explains how characters earn XP, to fill their Special Trait track, and advance their Traits.
+[[05-Details/Hiros-Rulebook-V.1/Chapter 4 — Advancement\|Chapter 4 — Advancement]] explains how characters earn XP, to fill their Special Trait track, and advance their Traits.
 
 ---
 ## 3.6 Credit and Stash
@@ -224,7 +224,7 @@ Credit is measured using the Credit units. Every character has a limit of 4 on-h
 | **10 Credits** | Life-Changing Wealth           | A secured bank vault haul, a massive corporate bribe, or a permanent retirement stash.            |
 Any excess unit Credit must be spent or put in your character's Stash. Note that removing Stash to convert it into Credit results in a 2:1 loss: you must remove 2 Stash to receive 1 Credit. Fortunately, Credit can be added directly to your Stash with an equal conversion rate.
 
-Refer to [[Chapter 4 — Advancement\|Chapter 4 — Advancement]] for more details on spending, storing, and managing wealth.
+Refer to [[05-Details/Hiros-Rulebook-V.1/Chapter 4 — Advancement\|Chapter 4 — Advancement]] for more details on spending, storing, and managing wealth.
 
 ---
 ## 3.7 Gear and Load
