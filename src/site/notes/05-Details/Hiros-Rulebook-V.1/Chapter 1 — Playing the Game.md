@@ -26,16 +26,16 @@ Unless... they don't wanna plan at all... That's fine too, I guess.
 
 If the Clan needs help forming the starting plan, one or more people who want to take initiative can choose a plan type to kick off with, and provide a brief detail explaining their approach. Nothing has to be fully fleshed out, the Clan only needs to know how to initiate the plan, every other detail will be made up following the start. 
 *NOTE: Before it begins, make sure that every character has chosen their Gear for the amount of abstract items they'll be able to use during the operation.*
-### Kick Off Plan Types
+### Kickoff Plan Types
 - **Assault:** A strategy that uses direct force or violence to achieve the objective.
 - **Deception:** It relies on trickery, disguises, or false pretenses.
-- **Stealth:** For schemes that requires sneaking past defenses without attracting attention.
+- **Stealth:** For schemes that require sneaking past defenses without attracting attention.
 - **Social:** Here, characters leverage relationships, persuasion, or manipulation.
      
-These plan types help establish the Clan's intended approach as well as help the other players understand what to primarily do for the Operation. They do not restrict what the players can attempt once the Operation begins.
+These plan types help establish the Clan's intended approach as well as help the other players understand what to primarily do for the Operation. Note that these do not restrict what the players can attempt once the Operation begins.
 ### The Clan's Position Roll
 Once the plan is established, the one who takes initiative (usually the leader or a High-Ranking member) rolls one six-sided die to determine the Clan's starting circumstances.
-*TIP: Spend one Credit to gain one dice for your roll and improve your circumstances.*
+*TIP: Spend one Credit to gain one die for your roll and improve your circumstances.*
 
 | *Result* | *Starting circumstances*                                                                                    |
 | -------- | ----------------------------------------------------------------------------------------------------------- |
@@ -87,7 +87,7 @@ Each character has **two Core Activities** by default after an Operation. Player
     
 - **Acquire Asset:** Obtain useful resources, equipment, or assistance. This requires Credit.
     
-- **Indulge:** Relieve accumulated Strain through a chosen relaxing vice or activity. This requires you to roll with your lowest Attribute's Dice Pool and reducing the amount of Strain by the result.
+- **Indulge:** Relieve accumulated Strain through a chosen relaxing vice or activity for your character. This requires you to roll with your lowest Attribute's Dice Pool and reducing the amount of Strain by the result.
     
 These are common options, not an exhaustive list. Players can propose other activities that fit their characters' goals and the circumstances, subject to the Host's approval.
 
