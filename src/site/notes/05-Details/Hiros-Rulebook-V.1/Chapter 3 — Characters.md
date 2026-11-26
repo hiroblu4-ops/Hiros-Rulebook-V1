@@ -204,9 +204,9 @@ This track records progress toward advancing the Trait. When all eight boxes are
 
 The way a Trait is rolled for depends on what it does and how the player defined it. Action-based Traits use Action Rolls, and Attribute-based Traits use Resistance Rolls where the cost is Strain. The amount of Dice you need to roll for the usage of a Special Trait is determined by it's level, where level 1 = 1 Die, Level 2 = 2 Dice, and so on. However, you can only use your Special Trait once during an Operation.
 
-*NOTE: The Special Trait XP track is separate from the Attribute XP tracks. You have to spend XP separately. Filling an Attribute's track improves the rating of the Action or Attribute. On the other hand, filling a Special Trait's XP track improves the Level and Rating of the Special Trait. Complicated, innit?*
+*NOTE: The Special Trait XP track is separate from the Attribute XP tracks. You have to gain XP for each track separately. Filling an Attribute's track improves the rating of the Action or Attribute. On the other hand, filling a Special Trait's XP track improves the Special Trait's Rating and Level. Complicated, innit?*
 
-[[05-Details/Hiros-Rulebook-V.1/Chapter 4 — Advancement\|Chapter 4 — Advancement]] explains how characters earn XP, to fill their Special Trait track, and advance their Traits.
+[[05-Details/Hiros-Rulebook-V.1/Chapter 4 — Advancement\|Chapter 4 — Advancement]] explains how characters earn XP to fill their Special Trait track and advance their Traits.
 
 ---
 ## 3.6 Credit and Stash
