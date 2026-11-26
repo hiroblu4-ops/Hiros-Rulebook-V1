@@ -56,7 +56,7 @@ An Operation is *the* main event: the Clan attempts to accomplish its objective 
     
 3. **The Host calls for rolls when needed.** Risky or uncertain actions are usually what rolls are made for more insight, the Host can set the Position & Effect. Aside from making Action and Resistance rolls, players can make Recovery Rolls, roll with their Special Trait, spend strain to Exert themselves, or propose Flashbacks.
     
-4. **The Host describes the outcome.** Success advances the situation; failure or partial success may introduce consequences. The aformention Position & Effect help determine the danger and impact of an action when relevant.
+4. **The Host describes the outcome.** Success advances the situation; failure or partial success may introduce consequences. The aforementioned Position & Effect help determine the danger and impact of an action when relevant.
     
 5. **Players respond to consequences.** Characters may resist consequences, or react.
     
